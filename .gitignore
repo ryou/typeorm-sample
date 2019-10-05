@@ -1,0 +1,17 @@
+### Project ###
+*.sqlite
+
+### Node.js ###
+node_modules
+
+### JetBrains ###
+.idea
+
+### macOS ###
+.DS_Store
+
+### VisualStudioCode ###
+.vscode
+
+### Windows ###
+Thumbs.db
